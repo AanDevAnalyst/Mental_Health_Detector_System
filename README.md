@@ -20,7 +20,7 @@ This project develops a machine learning model to predict the likelihood of Ment
 - Features include: Statement & Status
 - Target: Status 
 
-🔍 **EXPLORATORY DATA ANALYSIS (EDA)
+🔍 **EXPLORATORY DATA ANALYSIS (EDA)**
 
 - Distribution of patient attributes.
 - Correlation heatmap between features and target.
